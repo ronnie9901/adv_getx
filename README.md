@@ -1,16 +1,8 @@
-# adv_getx
+<div>
 
-A new Flutter project.
+  <img  height= "550" src="https://github.com/user-attachments/assets/1ec0427c-3d81-4d0f-a75e-bf458a3312e0"  />
 
-## Getting Started
+https://github.com/user-attachments/assets/011e794e-d03f-46be-a221-2108cc9e7cbd
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
