@@ -17,11 +17,11 @@ class CrudController extends GetxController {
     userList.removeAt(index);
   }
 
-  void ubdateuser(int index) {
-    txtid = TextEditingController(text: userList[index].id.toString());
-    txtid = TextEditingController(text: userList[index].name.toString());
-    txtid = TextEditingController(text: userList[index].degingatiom.toString());
-  }
+  // void ubdateuser(int index) {
+  //   txtid = TextEditingController(text: userList[index].id.toString());
+  //   txtname = TextEditingController(text: userList[index].name);
+  //   txtde = TextEditingController(text: userList[index].degingatiom);
+  // }
   void saveData(int index)
   {
     userList[index].id = int.parse(txtid.text);

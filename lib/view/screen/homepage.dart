@@ -34,7 +34,7 @@ class Homepage extends StatelessWidget {
                 children: [
                   IconButton(
                       onPressed: () {
-                        userController.ubdateuser(index);
+                        // userController.ubdateuser(index);
                         showDialog(
                           context: context,
                           builder: (context) => AlertDialog(
@@ -61,7 +61,7 @@ class Homepage extends StatelessWidget {
                                 TextField(
                                   controller: userController.txtde,
                                   decoration: InputDecoration(
-                                      hintText: ' designation'),
+                                      hintText: ' city'),
                                 ),
                               ],
                             ),
@@ -127,7 +127,7 @@ class Homepage extends StatelessWidget {
                   ),
                   TextField(
                     controller: userController.txtde,
-                    decoration: InputDecoration(hintText: ' designnation'),
+                    decoration: InputDecoration(hintText: ' city'),
                   ),
                 ],
               ),
